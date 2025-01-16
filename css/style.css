@@ -236,6 +236,7 @@ a.btn-send:hover {
 a.navbar-brand img {
 	position:relative;
 	top:9px;
+	max-width: 80px;
 }
 #menu {
 	position:absolute;
